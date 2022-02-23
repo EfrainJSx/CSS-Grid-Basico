@@ -18,10 +18,10 @@ Es un curso basico de como estructurar con CSS y HTML
 # Reto 3: Posicionamiento de Grid
 
 Realizar la siguiente estructura en grid
-. +----+---------+
-. |    |         |
-. +----+----+----+
-. |         |    |
-. +----+----+----+
-. |    |    |    |
-. +----+----+----+
+- +----+---------+
+- |    |         |
+- +----+----+----+
+- |         |    |
+- +----+----+----+
+- |    |    |    |
+- +----+----+----+
