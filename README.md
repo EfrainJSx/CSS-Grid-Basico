@@ -14,3 +14,14 @@ Es un curso basico de como estructurar con CSS y HTML
 - Crear un grid de 2x2
 - los items deben estar ubicados en la esquina inferior derecha
 - el contenedor debe estar centrado
+
+# Reto 3: Posicionamiento de Grid
+
+Realizar la siguiente estructura en grid
+. +----+---------+
+. |    |         |
+. +----+----+----+
+. |         |    |
+. +----+----+----+
+. |    |    |    |
+. +----+----+----+
