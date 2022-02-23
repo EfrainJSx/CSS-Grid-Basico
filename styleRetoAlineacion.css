@@ -1,0 +1,13 @@
+.contenedor{
+    display: grid;
+    grid-template-rows: 100px 100px 100px;
+    grid-auto-columns: 100px;
+    grid-auto-flow: column;
+    gap: 20px;
+}
+
+.item{
+    font-size: 2rem;
+    border: 3px solid blue;
+    background-color: aqua;
+}
