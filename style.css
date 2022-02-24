@@ -2,31 +2,11 @@
     border: 5px solid grey;
     background-color: antiquewhite;
     display: grid;
-    grid-template-columns: 150px 150px 150px;
-    grid-template-rows: 75px 75px 75px;
-    grid-template-areas: 
-    "header header header"
-    "side main main"
-    "side main main";
-    place-content: center;
+    grid-template-columns: repeat(3, auto);
+    grid-template-rows: repeat(3, auto);
 }
 
 .item{
-    font-size:  4rem;
-}
-
-.item-1 {
-    border: 5px solid burlywood;
-    background-color: aqua;
-    grid-area: header;
-}
-.item-2 {
-    border: 5px solid greenyellow;
-    background-color: floralwhite;
-    grid-area: side;
-}
-.item-3 {
-    border: 5px solid darkred;
-    background-color: salmon;
-    grid-area: main;
+    border: 5px solid aqua;
+    font-size:  2rem;
 }
